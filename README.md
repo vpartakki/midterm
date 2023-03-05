@@ -16,7 +16,7 @@ Be prepared to talk a little about your work. You should be able to articulate w
 
 ## How to run project:
 1. You need to store the _html_, _css_, _js_, _images_, and _audio_ files in the same directory.
-2. Proceed to run, or use the GitHub pages link I have set up.
+2. Proceed to run, or use the GitHub pages link I have set up: https://vpartakki.github.io/midterm/
 
 
 ## Files in this project:
