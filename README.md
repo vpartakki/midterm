@@ -4,6 +4,6 @@ a project with *p5js*
 
 
 Citations:
-[P5JS](https://p5js.org/)
-[Little Einstein's](https://en.wikipedia.org/wiki/Little_Einsteins)
-[Public Google Images](https://images.google.com/)
+1. [P5JS](https://p5js.org/)
+2. [Little Einstein's](https://en.wikipedia.org/wiki/Little_Einsteins)
+3. [Public Google Images](https://images.google.com/)
